@@ -1,6 +1,6 @@
 # 🗣 sing-box_Route-rules
 
-Add ruleset raw links to `source.txt`, Then run `Actions`. Next, you will see the generated `*.json` file in the `rule_json` directory and the generated `*.srs` file in the `rule_srs` directory. They can all be used by sing-box. It is recommended to use `*.srs` files as they perform more smoothly than `*.json` files. Since these file formats are only supported in newer versions of sing-box, please install sing-box version 1.8.0⁺ on your device For details, please refer to [sing-box official document](https://sing-box.sagernet.org).
+添加规则集原始链接source.txt，然后运行Actions。接下来你会在目录*.json中看到生成的文件rule_json，以及*.srs在rule_srs目录中生成的文件。它们都可以被歌唱盒使用。建议使用*.srs文件，因为它们比文件执行得更流畅*.json。由于这些文件格式仅在较新版本的sing-box中支持，请在您的设备上安装sing-box 1.8.0⁺版本。详细信息请参考sing-box官方文档。 [sing-box official document](https://sing-box.sagernet.org).
 
 ---
 
